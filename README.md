@@ -10,6 +10,4 @@ Run the code in Java (I recommend Eclipse as an IDLE)
 
 If you have questions or want to say me thanks create a new Issue in the associated tab (even for thanks message ;)).
 
-
-
 Enjoy free/open-source projects !
