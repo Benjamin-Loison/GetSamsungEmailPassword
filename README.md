@@ -14,5 +14,6 @@ Tested with a full up-to-date setup (23/09/2019):
 - Samsung: J5
 - Android version: 8.1.0
 - Samsung Email application version: 6.1.00.13
+- Orange email account
 
 Enjoy free/open-source projects !
